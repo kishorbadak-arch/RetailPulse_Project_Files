@@ -1,0 +1,13 @@
+store_key,store_name,city,state,region,store_type
+1,Store Mumbai,Mumbai,Maharashtra,West,Flagship
+2,Store Pune,Pune,Maharashtra,West,Standard
+3,Store Nagpur,Nagpur,Maharashtra,West,Standard
+4,Store Ahmedabad,Ahmedabad,Gujarat,West,Mini
+5,Store Delhi,Delhi,Delhi,North,Flagship
+6,Store Gurgaon,Gurgaon,Haryana,North,Standard
+7,Store Jaipur,Jaipur,Rajasthan,North,Standard
+8,Store Bengaluru,Bengaluru,Karnataka,South,Mini
+9,Store Chennai,Chennai,Tamil Nadu,South,Flagship
+10,Store Hyderabad,Hyderabad,Telangana,South,Standard
+11,Store Kolkata,Kolkata,West Bengal,East,Standard
+12,Store Bhubaneswar,Bhubaneswar,Odisha,East,Mini

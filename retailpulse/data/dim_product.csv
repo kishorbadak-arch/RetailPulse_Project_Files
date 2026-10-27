@@ -1,0 +1,41 @@
+product_key,product_name,category,sku,unit_price,unit_cost
+1,Earbuds,Electronics,ELE-001,1132,721
+2,Smartwatch,Electronics,ELE-002,2912,2101
+3,Power Bank,Electronics,ELE-003,1123,638
+4,Bluetooth Speaker,Electronics,ELE-004,2713,2021
+5,Webcam,Electronics,ELE-005,2812,1988
+6,Keyboard,Electronics,ELE-006,2878,1656
+7,Mouse,Electronics,ELE-007,3083,1924
+8,Phone Case,Electronics,ELE-008,2071,1522
+9,Air Fryer,Home & Kitchen,HOM-009,2410,1722
+10,Mixer Grinder,Home & Kitchen,HOM-010,2038,1301
+11,Water Bottle,Home & Kitchen,HOM-011,1516,1001
+12,Lunch Box,Home & Kitchen,HOM-012,913,513
+13,Cookware Set,Home & Kitchen,HOM-013,2617,1769
+14,Table Lamp,Home & Kitchen,HOM-014,2534,1777
+15,Storage Jar,Home & Kitchen,HOM-015,2191,1630
+16,Kettle,Home & Kitchen,HOM-016,1257,915
+17,T-Shirt,Fashion,FAS-017,1775,1045
+18,Jeans,Fashion,FAS-018,2001,1287
+19,Hoodie,Fashion,FAS-019,1370,795
+20,Sneakers,Fashion,FAS-020,348,238
+21,Backpack,Fashion,FAS-021,2325,1728
+22,Wallet,Fashion,FAS-022,1925,1184
+23,Cap,Fashion,FAS-023,2287,1472
+24,Socks Pack,Fashion,FAS-024,1083,636
+25,Face Wash,Beauty & Care,BEA-025,913,589
+26,Sunscreen,Beauty & Care,BEA-026,364,216
+27,Shampoo,Beauty & Care,BEA-027,1081,689
+28,Perfume,Beauty & Care,BEA-028,1255,899
+29,Trimmer,Beauty & Care,BEA-029,1189,728
+30,Hair Dryer,Beauty & Care,BEA-030,1305,934
+31,Moisturizer,Beauty & Care,BEA-031,868,544
+32,Lip Balm,Beauty & Care,BEA-032,1477,897
+33,Yoga Mat,Sports & Fitness,SPO-033,750,433
+34,Dumbbell Set,Sports & Fitness,SPO-034,1769,1043
+35,Skipping Rope,Sports & Fitness,SPO-035,2051,1450
+36,Resistance Bands,Sports & Fitness,SPO-036,216,147
+37,Gym Gloves,Sports & Fitness,SPO-037,1284,906
+38,Shaker Bottle,Sports & Fitness,SPO-038,1821,1168
+39,Football,Sports & Fitness,SPO-039,1362,787
+40,Badminton Racket,Sports & Fitness,SPO-040,1508,863
